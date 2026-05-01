@@ -4,14 +4,14 @@
 </p>
 -->
 
-<h1 align="center">Hi, Max Garry</h1>
+<h1 align="center">Hi, I am Max Garry</h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 
 ---
 
 
 <div align="center">
-<a href="https://github.com/Kurodataio"><h2>View My Portfolio</h2></a>
+<a href="https://github.com/Kurodataio"  target="_blank"><h2>View My Portfolio</h2></a>
 </div>
 
 
@@ -34,6 +34,8 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   <!--
   <img src="https://img.shields.io/badge/R-00578F?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
   -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=style=for-the-badge&logo=javascript&logoColor=white" alt="Javacirpt"/>
+
   <!--
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Matlab&logoColor=white" alt="Matlab"/>
   -->
@@ -86,7 +88,8 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
 </p>
 
 <br />
