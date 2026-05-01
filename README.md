@@ -42,12 +42,10 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
-  <img alt="React" src=" https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-  <img alt="PHP" src=" https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <!--
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Matlab&logoColor=white" alt="Matlab"/>
-  -->
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
 </p>
 
 ### Tools
