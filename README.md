@@ -94,6 +94,8 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
 <br />
 
+---
+
 <!-- ## Projects -->
 <h2 align="center">Projects</h2>
 
