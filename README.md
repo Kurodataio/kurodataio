@@ -7,13 +7,10 @@
 <h1 align="center">Hi, I am Max Garry</h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 
----
-
 
 <div align="center">
 <a href="https://github.com/Kurodataio" target="_blank"><h2>View My Portfolio</h2></a>
 </div>
-
 
 ---
 
@@ -74,8 +71,9 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
+<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> -->
 
 <!-- R Ecosystem 
 <img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
@@ -119,16 +117,12 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   
 </ul>
 
----
-
 <!-- ## Future Project
 <ul>
   <li>Advanced SQL & Database Optimization</li>
   <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul> -->
-
----
 
 ---
 
