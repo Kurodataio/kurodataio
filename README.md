@@ -128,9 +128,7 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
 ---
 
-<div align="center">
-## GitHub Stats
-</div>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/kurodataio" alt="GitHub Contribution Chart" />
@@ -141,9 +139,8 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 </div>
 
 ---
-<div align="center">
-## Connect With Me
-</div>
+<h2 align="center">Connect With Me</h2>
+
 <p align="center">
 <!-- linkdin-->
   <a href="www.linkedin.com/in/max-garry-a61070405" target="_blank">
