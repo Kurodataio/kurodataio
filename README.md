@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<a href="https://github.com/Kurodataio"  target="_blank"><h2>View My Portfolio</h2></a>
+<a href="https://github.com/Kurodataio" target="_blank"><h2>View My Portfolio</h2></a>
 </div>
 
 
@@ -33,10 +33,7 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=style=for-the-badge&logo=Javascript&logoColor=white" alt="Javacirpt"/>
-
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-
 
 
   <!--
@@ -91,7 +88,7 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="Linux"/>
     <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
 </p>
 
@@ -101,11 +98,11 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/kurodataio" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurodataio&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
@@ -116,19 +113,19 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 <ul>
   <li>
   <strong>Clinical Trial Data Analysis for a New Diabetes Medication:</strong> 
-  <a href="https://github.com/Kurodataio/diabetes-clinical-trial">REPO LINK</a> | 
+  <a href="https://github.com/Kurodataio/diabetes-clinical-trial" target="_blank">LINK</a> | 
   <a href="#">Notebook</a>
   </li>
 
   <li>
   <strong>Environmental Toxin Analysis in River Systems</strong> 
-  <a href="https://github.com/Kurodataio/River-Toxin-Analysis">REPO LINK</a> | 
+  <a href="https://github.com/Kurodataio/River-Toxin-Analysis" target="_blank">LINK</a> | 
   <a href="#">Notebook</a>
   </li>
   
   <li>
   <strong>EDA-on-Sales-Data Project:</strong> 
-  <a href="https://github.com/Kurodataio/EDA-on-Sales-Data">REPO LINK</a> | 
+  <a href="https://github.com/Kurodataio/EDA-on-Sales-Data" target="_blank">LINK</a> | 
   <a href="#">Notebook</a>
   </li>
 
@@ -137,12 +134,12 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
 ---
 
-## Future Project
+<!-- ## Future Project
 <ul>
   <li>Advanced SQL & Database Optimization</li>
   <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
-</ul>
+</ul> -->
 
 ---
 
@@ -152,17 +149,17 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   <a href="www.linkedin.com/in/max-garry-a61070405" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!-- Email -->
+<!-- Email
   <a href="YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  </a> -->
 
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
 
 
-
+<!-- 
 **Kurodataio/kurodataio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -174,5 +171,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
