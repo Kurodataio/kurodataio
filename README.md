@@ -30,11 +30,13 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <!--
-  <img src="https://img.shields.io/badge/R-00578F?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
-  -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=style=for-the-badge&logo=javascript&logoColor=white" alt="Javacirpt"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=style=for-the-badge&logo=Javascript&logoColor=white" alt="Javacirpt"/>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript?style=for-the-badge&logo=javascript&logoColor=white">
+
 
   <!--
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Matlab&logoColor=white" alt="Matlab"/>
