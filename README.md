@@ -107,8 +107,6 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ![](https://streak-stats.demolab.com/?user=kurodataio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kurodataio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kurodataio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -157,6 +155,11 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurodataio&theme=default" alt="GitHub Streak" width="40%">
 </div>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+![](https://github-profile-trophy.vercel.app/?username=kurodataio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 <h2 align="center">Connect With Me</h2>
