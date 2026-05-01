@@ -159,7 +159,9 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kurodataio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 <h2 align="center">Connect With Me</h2>
