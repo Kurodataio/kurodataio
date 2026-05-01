@@ -88,24 +88,11 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
     <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
 </p>
 
 <br />
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://ghchart.rshah.org/kurodataio" alt="GitHub Contribution Chart" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurodataio&theme=default" alt="GitHub Streak" width="40%">
-</div>
-
----
 
 ## Projects
 
@@ -114,19 +101,19 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   <li>
   <strong>Clinical Trial Data Analysis for a New Diabetes Medication:</strong> 
   <a href="https://github.com/Kurodataio/diabetes-clinical-trial" target="_blank">LINK</a> | 
-  <a href="#">Notebook</a>
+  <!-- <a href="#">Notebook</a> -->
   </li>
 
   <li>
   <strong>Environmental Toxin Analysis in River Systems</strong> 
   <a href="https://github.com/Kurodataio/River-Toxin-Analysis" target="_blank">LINK</a> | 
-  <a href="#">Notebook</a>
+  <!-- <a href="#">Notebook</a> -->
   </li>
   
   <li>
   <strong>EDA-on-Sales-Data Project:</strong> 
   <a href="https://github.com/Kurodataio/EDA-on-Sales-Data" target="_blank">LINK</a> | 
-  <a href="#">Notebook</a>
+  <!-- <a href="#">Notebook</a> -->
   </li>
 
   
@@ -140,6 +127,19 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   <li>Machine Learning & Predictive Analytics</li>
   <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul> -->
+
+---
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/kurodataio" alt="GitHub Contribution Chart" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurodataio&theme=default" alt="GitHub Streak" width="40%">
+</div>
 
 ---
 
@@ -157,6 +157,8 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
+
+
 
 
 <!-- 
