@@ -5,9 +5,9 @@
 -->
 ![Header](./kurodataio-github-header-banner.png)
 
-
+<!-- 
 <h1 align="center">Hi, I am Max Garry</h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h2 align="center">Data Analysis | Data Science </h2> -->
 
 
 <div align="center">
