@@ -10,9 +10,16 @@
 <h2 align="center">Data Analysis | Data Science </h2> -->
 
 
+<!-- <div align="center">
+  <a href="" target="_blank"><h2>View My Portfolio</h2></a>
+</div> -->
+
 <div align="center">
-  <a href="https://github.com/Kurodataio?tab=repositories" target="_blank"><h2>View My Portfolio</h2></a>
+  <a href="https://github.com/Kurodataio?tab=repositories" target="_blank">
+    <strong><h2>View My Portfolio</h2></strong>
+  </a>
 </div>
+
 
 ---
 
@@ -84,7 +91,6 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/>
   
 <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
