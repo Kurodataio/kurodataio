@@ -45,7 +45,7 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
