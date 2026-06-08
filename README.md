@@ -141,22 +141,23 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
   <li>
   <strong>Clinical Trial Data Analysis for a New Diabetes Medication:</strong> 
   <a href="https://github.com/Kurodataio/diabetes-clinical-trial" target="_blank">LINK</a> | 
-  <!-- <a href="#">Notebook</a> -->
   </li>
 
   <li>
   <strong>Environmental Toxin Analysis in River Systems</strong> 
   <a href="https://github.com/Kurodataio/River-Toxin-Analysis" target="_blank">LINK</a> | 
-  <!-- <a href="#">Notebook</a> -->
   </li>
   
   <li>
   <strong>EDA-on-Sales-Data Project:</strong> 
   <a href="https://github.com/Kurodataio/EDA-on-Sales-Data" target="_blank">LINK</a> | 
-  <!-- <a href="#">Notebook</a> -->
   </li>
 
-  
+  <li>
+  <strong>Health Insurance Claims:</strong> 
+  <a href="https://github.com/Kurodataio/Health-Insurance-Claims" target="_blank">LINK</a> | 
+  </li>
+
 </ul>
 
 <!-- ## Future Project
