@@ -187,7 +187,7 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 <!-- ![](https://github-profile-trophy.vercel.app/?username=kurodataio&theme=flat&no-frame=false&no-bg=true&margin-w=4) -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kurodataio)](https://github.com/kurodataio/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=kurodataio)
 
 ---
 <h2 align="center">Connect With Me</h2>
