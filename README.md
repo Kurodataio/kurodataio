@@ -186,8 +186,13 @@ Data Analyst with an MSc in Artificial Intelligence and certifications including
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=kurodataio&theme=flat&no-frame=false&no-bg=true&margin-w=4) -->
 
+<!-- 
+Deployment Temporarily Paused
+Status: Open.
+#439 In ryo-ma/github-profile-trophy;· DarkDemon1854 opened 3 weeks ago 
+https://github.com/ryo-ma/github-profile-trophy/issues
+-->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kurodataio)
 
 ---
 <h2 align="center">Connect With Me</h2>
